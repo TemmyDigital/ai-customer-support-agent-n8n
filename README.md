@@ -1,3 +1,4 @@
+<img width="823" height="354" alt="AUTOMATION - AI customer support agent" src="https://github.com/user-attachments/assets/92e0dd76-4163-477e-8906-7c759e03bdf5" />
 # AI Customer Support Agent | n8n + OpenAI
 
 ## Overview
